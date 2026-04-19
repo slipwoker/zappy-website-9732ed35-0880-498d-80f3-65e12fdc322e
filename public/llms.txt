@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פלטפורמת ניהול אירועים לזוגות וספקים שמשנה את הדרך לתכנן אירועים. שלחו אישורי הגעה דיגיטליים, נהלו רשימות מוזמנים והפכו כל אירוע לחוויה מושלמת. הצטרפו עכשיו!
+
+### איך זה עובד
+https://example.com/how-it-works
+רוצים לדעת איך שולחים אישורי הגעה לחתונה דיגיטלי תוך דקות? הפלטפורמה שלנו מציעה תהליך פשוט בשלושה שלבים לניהול מוזמנים, מעקב אישורים וסנכרון עם ספקי האירוע. התחילו עכשיו!
+
+### אודות
+https://example.com/about
+לונסול אופנה נוסדה מתוך חזון להפוך כל עמוד ספק אירועים לחוויה חכמה ומקצועית. אנו מחברים בין זוגות לספקים הטובים ביותר ומאפשרים ניהול אירועים חלק ומדויק. הכירו את הצוות שלנו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על ניהול אישורי הגעה לאירועים אונליין או רוצים לרשום את עמוד הספק שלכם? צוות לונסול אופנה זמין לכם עכשיו. צרו קשר ונתחיל לבנות יחד את האירוע המושלם שלכם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - לונסול אופנה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - לונסול אופנה
+
+### Category
+https://example.com/category/:slug
+מוצרים - לונסול אופנה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
